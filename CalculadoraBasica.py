@@ -86,4 +86,3 @@ while True:
     else:
         print("Opção invalida, tente novamente: ")
         
-#feito por kauan victor
